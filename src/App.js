@@ -43,7 +43,7 @@ function Step(){
                     <div className="buttons">
                       <button style={{background:"#7950f2",color:"#fff"}} onClick={handelPrevious}>Previous</button>
                       <button style={{background:"#7950f2",color:"#fff"}} onClick={handelNext}>Next</button>
-                    <h1>heg</h1>
+                    <h2>heg</h2>
                     </div>  
                   </div>)}
     </>
